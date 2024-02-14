@@ -32,9 +32,9 @@ CIFAR-100 (fine and coarse)
 .
 ├── files
 │   ├── classes
-│       ├── coarse_labels.csv
-│       └── fine_labels.csv
-│   ├── datasets
+│   │   ├── coarse_labels.csv
+│   │   └── fine_labels.csv
+│   └── datasets
 │       ├── trnImage.npy
 │       ├── trnLabel_coarse.npy
 │       ├── trnLabel_fine.npy
