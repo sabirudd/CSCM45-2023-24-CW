@@ -1,18 +1,16 @@
 `05/12/2023 - 13/12/2023`
 
 # CSCM45 - Big Data & Machine Learning (2023/24) Coursework
-Implementation and comparison of several classical machine learning methods. <br />
-Comparison (detailed in report) generated using confusion matrices, F1-score and accuracy curves. <br />
-All data was normalised and then trained using a portion of the main dataset (trn) and then tested using a different portion of the dataset (tst). <br />
+- Implementation and comparison of several classical machine learning methods. <br />
+- Comparison (detailed in report) generated using confusion matrices, F1-score and accuracy curves. <br />
+- All data was normalised and then trained using a portion of the main dataset (trn) and then tested using a different portion of the dataset (tst). <br />
 
 ## ML methods implemented:
-```
-> K-Means Clustering
-> Linear Discriminative Analysis
-> Support Vector Machine
-> Neural Networks
-> Convolutional Neural Networks
-```
+- K-Means Clustering
+- Linear Discriminative Analysis
+- Support Vector Machine
+- Neural Networks
+- Convolutional Neural Networks
 
 
 ## Modules used:
